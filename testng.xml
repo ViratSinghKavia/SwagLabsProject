@@ -11,6 +11,8 @@
   <parameter name ="browser" value ="chrome" />
     <classes>
       <class name="com.swaglabs.testCases.TC_LoginTest_001"/>
+      <class name="com.swaglabs.testCases.TC_AddProducts_003"/>
+      
      
       
     </classes>
