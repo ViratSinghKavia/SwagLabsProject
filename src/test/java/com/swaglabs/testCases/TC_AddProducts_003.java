@@ -45,7 +45,7 @@ public class TC_AddProducts_003 extends BaseClass {
 		
 		if(pp.getTextYourCart().contains("YOUR CART")){
 			Assert.assertTrue(true);
-			logger.info("******TestCase Passed******");
+			logger.info("******TestCase Passed Wohoooooo******");
 			
 		}
 		else {
